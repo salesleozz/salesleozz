@@ -47,7 +47,7 @@ I’m dedicated to Back-end development, focusing on Java, and always striving t
 
 ### 🌐 Onde me encontrar / Where to find me
 
-<div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; width: 100px; margin: 0 auto;">
   <a href="https://www.linkedin.com/in/salesleo/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
   </a>
@@ -55,6 +55,7 @@ I’m dedicated to Back-end development, focusing on Java, and always striving t
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>
   </a>
 </div>
+
 
 ---
 
