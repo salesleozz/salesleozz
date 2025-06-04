@@ -46,7 +46,7 @@ Sou uma pessoa dedicada e comprometida, que busca constantemente o aperfeiçoame
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/salesleo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Leonardo Sales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
