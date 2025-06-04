@@ -1,22 +1,25 @@
 <h1 align="center">👨‍💻 Leonardo Sales</h1>
 
 <p align="center">
-Desenvolvedor Back - End | Apaixonado por Tecnologia | Criador de Soluções
+Desenvolvedor Back-end | Apaixonado por Tecnologia | Criador de Soluções<br/>
+Back-end Developer | Technology Enthusiast | Solutions Creator
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre mim / About Me
 
-Me chamo Leonardo Sales, tenho 19 anos e atualmente estudo na Universidade São Judas Tadeu, campus Mooca, São Paulo.
+Me chamo Leonardo Sales, tenho 19 anos e estudo na Universidade São Judas Tadeu, campus Mooca, São Paulo.
 
-Sou uma pessoa dedicada e comprometida, que busca constantemente o aperfeiçoamento como Desenvolvedor de Software, com foco em Back-end, especialmente em Java. Estou sempre empenhado em aprender novas tecnologias e aprimorar minhas habilidades para entregar soluções eficientes e de alta qualidade.
+Sou dedicado ao desenvolvimento Back-end, com foco em Java, e busco sempre aprimorar minhas habilidades para entregar soluções eficientes e de qualidade.
 
+My name is Leonardo Sales, I’m 19 years old and currently studying at Universidade São Judas Tadeu, Mooca campus, São Paulo.
+
+I’m dedicated to Back-end development, focusing on Java, and always striving to improve my skills to deliver efficient and quality solutions.
 
 ---
 
-
-### 🔧 Ferramentas e Tecnologias
+### 🔧 Ferramentas e Tecnologias / Tools & Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
@@ -30,7 +33,7 @@ Sou uma pessoa dedicada e comprometida, que busca constantemente o aperfeiçoame
 
 ---
 
-### 🎓 Cursos Concluídos
+### 🎓 Cursos Concluídos / Completed Courses
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java – Oracle e Udemy**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java – Orientação a Objetos – Alura**  
@@ -40,19 +43,22 @@ Sou uma pessoa dedicada e comprometida, que busca constantemente o aperfeiçoame
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> **PHP – Udemy**  
 - 📚 **Inglês – CNA**
 
-
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Onde me encontrar / Where to find me
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/salesleo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo Sales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="leosaleszz0407@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>
+  </a>
+</div>
+
 
 ---
 
 <p align="center">
-   "Transformando código em soluções que geram impacto."
+"Turning code into solutions that make an impact."
 </p>
