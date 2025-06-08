@@ -11,7 +11,7 @@ Back-end Developer | Technology Enthusiast | Solutions Creator
 
 Me chamo Leonardo Sales, tenho 19 anos e estudo na Universidade São Judas Tadeu, campus Mooca, São Paulo.
 
-Sou dedicado ao desenvolvimento Back-end, com foco em Java, e busco sempre aprimorar minhas habilidades para entregar soluções eficientes e de qualidade.
+Sou dedicado ao desenvolvimento Back-end, com foco em Java | Spring Boot e busco sempre aprimorar minhas habilidades para entregar soluções eficientes e de qualidade.
 
 My name is Leonardo Sales, I’m 19 years old and currently studying at Universidade São Judas Tadeu, Mooca campus, São Paulo.
 
@@ -24,9 +24,6 @@ I’m dedicated to Back-end development, focusing on Java, and always striving t
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ"/>
 </div>
